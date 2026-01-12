@@ -10,6 +10,7 @@ class Solution {
             if(map.containsKey(sec_idx) && map.get(sec_idx)!=i) {
                 arr[0]=map.get(sec_idx);
                 arr[1]=i;
+                break;
             }
         }
         return arr;
