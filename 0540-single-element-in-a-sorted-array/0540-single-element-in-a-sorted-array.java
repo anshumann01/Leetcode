@@ -1,12 +1,15 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int start=0;
-        int end=nums.length-1;
-        while(start<=end) {
-            int mid=start+(end-start)/2;
-            if(nums[mid-1]!=nums[mid] && nums[mid+1]!=nums[mid]) {
-                
-            }
+        if(nums.length==1) return nums[0];
+        if(nums[0]!=nums[1]) return nums[0];
+        if(nums[nums.length-1]!=nums[nums.length-2]) return nums[nums.length-1];
+        int val=0;
+       for(int i=1;i<nums.length-1;i++) {
+        if(nums[i-1]!=nums[i] && nums[i+1]!=nums[i]) {
+            val=nums[i];
+            break;
         }
+       }
+       return val;
     }
 }
