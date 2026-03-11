@@ -1,5 +1,6 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
+        if(nums.length==0 || nums.length==1) return nums.length;
         TreeSet<Integer> set = new TreeSet<>();
         for(int i=0;i<nums.length;i++) {
             set.add(nums[i]);
