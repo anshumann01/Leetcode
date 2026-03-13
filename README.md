@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/anshumann01/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/anshumann01/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Array
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshumann01/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshumann01/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,8 +72,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshumann01/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshumann01/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshumann01/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
