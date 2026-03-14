@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/anshumann01/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/anshumann01/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann01/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/anshumann01/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
@@ -81,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
