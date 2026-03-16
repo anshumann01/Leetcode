@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/anshumann01/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/anshumann01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/anshumann01/Leetcode/tree/main/0263-ugly-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
