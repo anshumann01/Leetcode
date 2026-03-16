@@ -95,10 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/anshumann01/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshumann01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/anshumann01/Leetcode/tree/main/0018-4sum/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
