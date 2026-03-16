@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anshumann01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/anshumann01/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/anshumann01/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anshumann01/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/anshumann01/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
