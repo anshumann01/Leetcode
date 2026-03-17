@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/anshumann01/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0171-excel-sheet-column-number](https://github.com/anshumann01/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshumann01/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
