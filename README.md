@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/anshumann01/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anshumann01/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshumann01/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshumann01/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshumann01/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshumann01/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
