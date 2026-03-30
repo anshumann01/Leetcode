@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/anshumann01/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/anshumann01/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshumann01/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshumann01/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshumann01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/anshumann01/Leetcode/tree/main/0018-4sum/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
