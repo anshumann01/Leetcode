@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann01/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/anshumann01/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/anshumann01/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0171-excel-sheet-column-number](https://github.com/anshumann01/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anshumann01/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshumann01/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/anshumann01/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/anshumann01/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
