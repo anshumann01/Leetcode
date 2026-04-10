@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/anshumann01/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/anshumann01/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anshumann01/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshumann01/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/anshumann01/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/anshumann01/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -194,5 +196,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
