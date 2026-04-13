@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anshumann01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/anshumann01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/anshumann01/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/anshumann01/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/anshumann01/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/anshumann01/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Simulation
@@ -198,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/anshumann01/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
