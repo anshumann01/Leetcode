@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann01/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/anshumann01/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0076-minimum-window-substring](https://github.com/anshumann01/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/anshumann01/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/anshumann01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann01/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/anshumann01/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/anshumann01/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/anshumann01/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/anshumann01/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/anshumann01/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/anshumann01/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/anshumann01/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/anshumann01/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
