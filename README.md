@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/anshumann01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/anshumann01/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/anshumann01/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anshumann01/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/anshumann01/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumann01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anshumann01/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Monotonic Stack
