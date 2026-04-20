@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshumann01/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshumann01/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
