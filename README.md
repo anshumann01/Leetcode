@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/anshumann01/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshumann01/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumann01/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/anshumann01/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/anshumann01/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann01/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/anshumann01/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
