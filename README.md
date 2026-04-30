@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann01/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anshumann01/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/anshumann01/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/anshumann01/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/anshumann01/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshumann01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/anshumann01/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
