@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/anshumann01/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/anshumann01/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/anshumann01/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/anshumann01/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/anshumann01/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumann01/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anshumann01/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/anshumann01/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
