@@ -9,7 +9,7 @@ class Solution {
             char ch = s.charAt(i);
             f2[ch-'a']++;
             if(i<k-1) continue;
-            if(Arrays.equals(f1,f2)) {
+            if(Arrays.equals(f1,f2)) { //O(26)
                 nums.add(i-k+1);
             }
             f2[s.charAt(i-k+1)-'a']--;
