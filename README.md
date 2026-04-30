@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/anshumann01/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/anshumann01/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshumann01/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/anshumann01/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshumann01/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshumann01/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anshumann01/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/anshumann01/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/anshumann01/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshumann01/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
