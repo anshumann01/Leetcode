@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/anshumann01/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/anshumann01/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumann01/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/anshumann01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumann01/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anshumann01/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
