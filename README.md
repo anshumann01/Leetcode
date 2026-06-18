@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/anshumann01/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/anshumann01/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/anshumann01/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/anshumann01/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/anshumann01/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
