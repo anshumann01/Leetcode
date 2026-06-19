@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/anshumann01/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anshumann01/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/anshumann01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshumann01/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/anshumann01/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anshumann01/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/anshumann01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
