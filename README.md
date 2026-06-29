@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/anshumann01/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/anshumann01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/anshumann01/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/anshumann01/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/anshumann01/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/anshumann01/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Array
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/anshumann01/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/anshumann01/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/anshumann01/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/anshumann01/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/anshumann01/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anshumann01/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/anshumann01/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
