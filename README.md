@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anshumann01/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/anshumann01/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshumann01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anshumann01/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshumann01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Union-Find
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshumann01/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anshumann01/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/anshumann01/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshumann01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/anshumann01/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshumann01/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anshumann01/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anshumann01/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshumann01/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshumann01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshumann01/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
