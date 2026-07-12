@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshumann01/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshumann01/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anshumann01/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2256-minimum-average-difference](https://github.com/anshumann01/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshumann01/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/anshumann01/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshumann01/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/anshumann01/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/anshumann01/Leetcode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anshumann01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2256-minimum-average-difference](https://github.com/anshumann01/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
