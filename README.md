@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/anshumann01/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/anshumann01/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/anshumann01/Leetcode/tree/main/0476-number-complement/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/anshumann01/Leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/anshumann01/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
