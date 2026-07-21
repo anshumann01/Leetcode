@@ -1,11 +1,6 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
         String binary = Integer.toBinaryString(n);
-        for(int i=1;i<binary.length();i++) {
-            if(binary.charAt(i-1)==binary.charAt(i)) {
-                return false;
-            }
-        }
-        return true;
+        return !(binary.contains("00") || binary.contains("11"));
     }
 }
