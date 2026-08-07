@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/anshumann01/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshumann01/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/anshumann01/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshumann01/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshumann01/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anshumann01/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshumann01/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
