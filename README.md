@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/anshumann01/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/anshumann01/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/anshumann01/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumann01/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann01/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anshumann01/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshumann01/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anshumann01/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/anshumann01/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumann01/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/anshumann01/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anshumann01/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anshumann01/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/anshumann01/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/anshumann01/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/anshumann01/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumann01/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/anshumann01/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/anshumann01/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/anshumann01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
