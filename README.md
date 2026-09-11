@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/anshumann01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumann01/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anshumann01/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/anshumann01/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumann01/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/anshumann01/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/anshumann01/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumann01/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshumann01/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/anshumann01/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/anshumann01/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/anshumann01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshumann01/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/anshumann01/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshumann01/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/anshumann01/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anshumann01/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/anshumann01/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,4 +477,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/anshumann01/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/anshumann01/Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/anshumann01/Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
